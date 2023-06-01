@@ -1,4 +1,4 @@
-file <- "C:/Users/rojas/Downloads/r-statistic/Database.txt"
+file <- "C:/Users/rojas/OneDrive/Escritorio/finish-project-r/Database.txt"
 
 datos <- read.table(file=file, header=TRUE)
 
